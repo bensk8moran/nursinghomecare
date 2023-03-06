@@ -189,6 +189,13 @@ body{
 .body-cont{
     background-color: rgb(0, 79, 110);
 }
+.autor{
+    text-align: right;
+    font-size: 10px;
+}
+.autor:hover{
+    color: coral;
+}
 .main{
     text-align: center;
     margin-top: 50px;
